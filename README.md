@@ -11,4 +11,4 @@ This repository includes several jupyther notebooks with pet projects. All proje
 
 - [Chatbot HSE](https://github.com/SergeyMaslikhov/DS_projects/tree/main/chatbot_HSE) - model to answer questions related to organization matters for students of MIEM HSE. Pretrained BERT models were used as baseline to compute cosine distance between input question and those we have in sample. Also pipeline for training on new data were developed.
 
-<h4 align="center">**For more information check project's README**</h4>
+<h3 align="center">For more information check project's README</h3>
