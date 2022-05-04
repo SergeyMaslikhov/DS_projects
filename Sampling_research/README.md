@@ -18,7 +18,7 @@ Code consists of 2 parts (for preprocessing data and building models). <br>
 - Plotting results of four samples for each classifier
 - Saving results in excel file
 
-Final plots you can see in [Sampling_research.ipynb.ipynb](https://github.com/SergeyMaslikhov/DS_projects/blob/main/Sampling_research/Sampling_research.ipynb) and resulting tables for every classifier are in [excel_reports](https://github.com/SergeyMaslikhov/DS_projects/tree/main/Sampling_research/excel_reports).
+Final plots you can see in [Sampling_research.ipynb](https://github.com/SergeyMaslikhov/DS_projects/blob/main/Sampling_research/Sampling_research.ipynb) and resulting tables for every classifier are in [excel_reports](https://github.com/SergeyMaslikhov/DS_projects/tree/main/Sampling_research/excel_reports).
 
 ## Requirements
 To install necessary packages use:
