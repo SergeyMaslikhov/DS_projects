@@ -4,3 +4,4 @@ cv2
 pandas
 torchvision
 matplotlib
+pathlib
