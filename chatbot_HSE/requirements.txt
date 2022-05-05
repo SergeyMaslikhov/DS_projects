@@ -1,0 +1,5 @@
+sentence_transformers 
+sklearn
+pandas 
+numpy 
+pymorphy2
